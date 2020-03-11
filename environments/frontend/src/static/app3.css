@@ -1,0 +1,19 @@
+html {
+  font-family: sans-serif;
+}
+
+#map {
+  align-items: center;
+  border: 1px solid #CCC;
+  display: flex;
+  height: 20rem;
+  justify-content: center;
+  margin: 2rem auto;
+  text-align: center;
+  width: 90%;
+}
+
+form {
+  margin: 2rem auto;
+  text-align: center;
+}
